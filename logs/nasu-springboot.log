@@ -77,3 +77,8 @@
 2022-10-12 11:37:01.814  INFO 4931 --- [scheduling-1] c.n.example.springbootlog.ScheduledLog   : The time is now 11:37:01
 2022-10-12 11:37:06.811  INFO 4931 --- [scheduling-1] c.n.example.springbootlog.ScheduledLog   : The time is now 11:37:06
 2022-10-12 11:37:11.815  INFO 4931 --- [scheduling-1] c.n.example.springbootlog.ScheduledLog   : The time is now 11:37:11
+2022-10-12 11:37:16.810  INFO 4931 --- [scheduling-1] c.n.example.springbootlog.ScheduledLog   : The time is now 11:37:16
+2022-10-12 11:37:21.812  INFO 4931 --- [scheduling-1] c.n.example.springbootlog.ScheduledLog   : The time is now 11:37:21
+2022-10-12 11:37:26.809  INFO 4931 --- [scheduling-1] c.n.example.springbootlog.ScheduledLog   : The time is now 11:37:26
+2022-10-12 11:37:31.808  INFO 4931 --- [scheduling-1] c.n.example.springbootlog.ScheduledLog   : The time is now 11:37:31
+2022-10-12 11:37:36.805  INFO 4931 --- [scheduling-1] c.n.example.springbootlog.ScheduledLog   : The time is now 11:37:36
